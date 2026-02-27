@@ -12,7 +12,9 @@
 [![Last Commit](https://img.shields.io/github/last-commit/jacksonhuangfly/tmuxpulse?style=flat-square)](https://github.com/jacksonhuangfly/tmuxpulse/commits/main)
 [![Issues](https://img.shields.io/github/issues/jacksonhuangfly/tmuxpulse?style=flat-square)](https://github.com/jacksonhuangfly/tmuxpulse/issues)
 
-A real-time, event-driven TUI for monitoring and managing tmux sessions. See all your sessions at a glance, navigate with keyboard or mouse, search across panes, and manage stale sessions -- all from a single terminal window.
+A real-time, event-driven tmux TUI for session monitoring, pane search, and stale cleanup. 💓
+
+See all your sessions at a glance, navigate with keyboard or mouse, search across panes, and manage stale sessions -- all from a single terminal window.
 
 ## tmux Terminology
 
